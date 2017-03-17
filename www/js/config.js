@@ -1,7 +1,7 @@
 
 
 // Substituir por seu Wordpress Blog WP REST API url 
-.constant ('WORDPRESS_API_URL', '<http://hostbdc.com.br/wp-json/wp/v2/')
+.constant ('WORDPRESS_API_URL', 'http://hostbdc.com.br/wp-json/wp/v2/')
 
 // Substitua por seu Número do Projeto do Google https://documentation.onesignal.com/v2.0/docs/android-generating-a-gcm-push-notification-key
 .constant ('GOOGLE_PROJECT_NUMBER', '<GOOGLE_PROJECT_NUMBER>')
