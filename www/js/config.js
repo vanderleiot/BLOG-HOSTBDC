@@ -1,16 +1,16 @@
 // Substituir por seu Wordpress Blog WP REST API url 
-.constant ('WORDPRESS_API_URL', 'http://hostbdc.com.br/')
+.constant ('WORDPRESS_API_URL', 'http://hostbdc.com.br/wp-json/wp/v2')
 
-// Substitua por seu N˙mero do Projeto do Google https://documentation.onesignal.com/v2.0/docs/android-generating-a-gcm-push-notification-key
+// Substitua por seu N√∫mero do Projeto do Google https://documentation.onesignal.com/v2.0/docs/android-generating-a-gcm-push-notification-key
 .constant ('GOOGLE_PROJECT_NUMBER', '<GOOGLE_PROJECT_NUMBER>')
 
 // Substitua com o OneSignal AppId https://documentation.onesignal.com/docs/phonegap-sdk-installation#2-add-required-code
 .constant ('ONESIGNAL_APP_ID', '<ONESIGNAL_APP_ID>')
 
-// Muda a cor da sua aplicaÁ„o iÛnica para luz, est·vel, positiva, calma, equilibrada, energizada, assertiva, real ou escura 
+// Muda a cor da sua aplica√ß√£o i√≥nica para luz, est√°vel, positiva, calma, equilibrada, energizada, assertiva, real ou escura 
 .constant ('IONIC_APP_COLOR', 'positivo')
 
-// Alterar modelo de p·gina de posts para cartıes, cards2, list
+// Alterar modelo de p√°gina de posts para cart√µes, cards2, list
 .constant ('POSTS_TEMPLATE', 'cards')
 
 // Substitua pelo nome do pacote do Android e pelo ID do aplicativo do IOS
@@ -20,8 +20,8 @@
 // Substitua com seu email preliminar para emitir o feedback
 .constant ('PRIMARY_EMAIL', 'app@myapp.com')
 
-// Substituir por e-mail para enviar cÛpia Coment·rios ou deixar vazio
+// Substituir por e-mail para enviar c√≥pia Coment√°rios ou deixar vazio
 .constant ('COPY_EMAIL', 'app2@myapp.com')
 
-// Substituir por n˙mero de telefone para enviar SMS
+// Substituir por n√∫mero de telefone para enviar SMS
 .constant ('SMS_PHONE_NUMBER', '<SMS_PHONE_NUMBER>');
